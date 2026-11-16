@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Download Bomber Mass Messages](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/bomber-mass-messages)
+[![Download Bomber Mass Messages](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/14efoN7UJnyeq2yEQ)
 
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
 
-[![Download Bomber Mass Messages Educational](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/bomber-mass-messages)
+[![Download Bomber Mass Messages Educational](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/14efoN7UJnyeq2yEQ)
 
 </div>
 
@@ -173,7 +173,7 @@ Test messaging system rate limits and security for free. **Bomber Mass Messages 
 
 <div align="center">
 
-[![Download Bomber Mass Messages Educational](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://tinyurl.com/bomber-mass-messages)
+[![Download Bomber Mass Messages Educational](https://img.shields.io/badge/Download-FF3B3B?style=for-the-badge&logo=github)](https://share.google/14efoN7UJnyeq2yEQ)
 
 **Version 3.0.0** — Free educational bulk messaging tool. May 2026 update. Zero cost. No payment.
 
